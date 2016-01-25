@@ -74,12 +74,11 @@
         border-left: 1px solid #EFF1F3;
     }
 
-    @media screen and (max-width: $bp__sm) {
-        ul,
-        ol {
-            margin-left: 2.1rem;
-        }
+    ul,
+    ol {
+        margin-left: 2.1rem;
     }
+    
 }
 
 .c-article__footer {
