@@ -12,3 +12,4 @@
 
 ## Sites using Butane Jekyll Theme
 - [alexcarpenter.me](http://alexcarpenter.me)
+- [blog.devinmcgloin.com](http://blog.devinmcgloin.com/)
