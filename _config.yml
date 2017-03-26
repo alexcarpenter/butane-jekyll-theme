@@ -4,8 +4,8 @@ description: >
     This is an example of the Butane Jekyll Theme created by Alex Carpenter
 author: Alex Carpenter
 email: youemail@gmail.com
-baseurl: "/butane-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "http://alexcarpenter.me" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://alexcarpenter.github.io" # the base hostname & protocol for your site
 twitter_username: hybrid_alex
 github_username:  alexcarpenter
 
